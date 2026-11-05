@@ -1,0 +1,112 @@
+{
+  "sounds": [
+    {
+      "id": "quiet-strings",
+      "title": "Quiet Strings",
+      "artist": "Wakemix",
+      "genre": "acoustic",
+      "intensity": 1,
+      "file": "acoustic/quiet-strings.wav",
+      "durationSec": 21.5,
+      "license": "original",
+      "sourceUrl": "tool/generate_placeholder_library.dart",
+      "attribution": "\"Quiet Strings\" by Wakemix, an original placeholder."
+    },
+    {
+      "id": "back-porch",
+      "title": "Back Porch",
+      "artist": "Wakemix",
+      "genre": "acoustic",
+      "intensity": 2,
+      "file": "acoustic/back-porch.wav",
+      "durationSec": 20.4,
+      "license": "original",
+      "sourceUrl": "tool/generate_placeholder_library.dart",
+      "attribution": "\"Back Porch\" by Wakemix, an original placeholder."
+    },
+    {
+      "id": "wake-up-strum",
+      "title": "Wake-Up Strum",
+      "artist": "Wakemix",
+      "genre": "acoustic",
+      "intensity": 3,
+      "file": "acoustic/wake-up-strum.wav",
+      "durationSec": 16.0,
+      "license": "original",
+      "sourceUrl": "tool/generate_placeholder_library.dart",
+      "attribution": "\"Wake-Up Strum\" by Wakemix, an original placeholder."
+    },
+    {
+      "id": "soft-circuit",
+      "title": "Soft Circuit",
+      "artist": "Wakemix",
+      "genre": "electronic",
+      "intensity": 1,
+      "file": "electronic/soft-circuit.wav",
+      "durationSec": 19.2,
+      "license": "original",
+      "sourceUrl": "tool/generate_placeholder_library.dart",
+      "attribution": "\"Soft Circuit\" by Wakemix, an original placeholder."
+    },
+    {
+      "id": "morning-signal",
+      "title": "Morning Signal",
+      "artist": "Wakemix",
+      "genre": "electronic",
+      "intensity": 2,
+      "file": "electronic/morning-signal.wav",
+      "durationSec": 19.46,
+      "license": "original",
+      "sourceUrl": "tool/generate_placeholder_library.dart",
+      "attribution": "\"Morning Signal\" by Wakemix, an original placeholder."
+    },
+    {
+      "id": "fast-lane",
+      "title": "Fast Lane",
+      "artist": "Wakemix",
+      "genre": "electronic",
+      "intensity": 3,
+      "file": "electronic/fast-lane.wav",
+      "durationSec": 16.0,
+      "license": "original",
+      "sourceUrl": "tool/generate_placeholder_library.dart",
+      "attribution": "\"Fast Lane\" by Wakemix, an original placeholder."
+    },
+    {
+      "id": "warm-tape",
+      "title": "Warm Tape",
+      "artist": "Wakemix",
+      "genre": "lo-fi",
+      "intensity": 1,
+      "file": "lo-fi/warm-tape.wav",
+      "durationSec": 20.2,
+      "license": "original",
+      "sourceUrl": "tool/generate_placeholder_library.dart",
+      "attribution": "\"Warm Tape\" by Wakemix, an original placeholder."
+    },
+    {
+      "id": "coffee-steam",
+      "title": "Coffee Steam",
+      "artist": "Wakemix",
+      "genre": "lo-fi",
+      "intensity": 2,
+      "file": "lo-fi/coffee-steam.wav",
+      "durationSec": 19.0,
+      "license": "original",
+      "sourceUrl": "tool/generate_placeholder_library.dart",
+      "attribution": "\"Coffee Steam\" by Wakemix, an original placeholder."
+    },
+    {
+      "id": "brisk-walk",
+      "title": "Brisk Walk",
+      "artist": "Wakemix",
+      "genre": "lo-fi",
+      "intensity": 3,
+      "file": "lo-fi/brisk-walk.wav",
+      "durationSec": 16.66,
+      "license": "original",
+      "sourceUrl": "tool/generate_placeholder_library.dart",
+      "attribution": "\"Brisk Walk\" by Wakemix, an original placeholder."
+    }
+  ]
+}
